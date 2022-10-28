@@ -50,3 +50,4 @@ How to use this GitHub repository as a template for your submission, including h
 ### in week 4
 - Search for information on digital identities and existential risks.
 - Thinking and brainstorming about how I want to start approaching the website, as well as the topics I want to talk about and research.
+- Search for interesting books and materials that I can use for my website.
