@@ -44,4 +44,9 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### in week 3
-- help students fork the repo and understand its code structure, etc. 
+- Doing some research on how GitHub works in order to familiarise myself with the site.
+- View all videos available in Moodle.
+- Take notes on those videos, first in the inbox and then sort those notes in the permanent folder.
+### in week 4
+- Search for information on digital identities and existential risks.
+- Thinking and brainstorming about how I want to start approaching the website, as well as the topics I want to talk about and research.
