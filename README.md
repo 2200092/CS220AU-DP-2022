@@ -51,3 +51,6 @@ How to use this GitHub repository as a template for your submission, including h
 - Search for information on digital identities and existential risks.
 - Thinking and brainstorming about how I want to start approaching the website, as well as the topics I want to talk about and research.
 - Search for interesting books and materials that I can use for my website.
+### in week 5
+- Watch the video on how to upload and embed images in markdown files using a browser.
+- See the examples of the V&R map from previous years to get ideas and start my own.
