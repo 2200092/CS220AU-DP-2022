@@ -54,3 +54,4 @@ How to use this GitHub repository as a template for your submission, including h
 ### in week 5
 - Watch the video on how to upload and embed images in markdown files using a browser.
 - See the examples of the V&R map from previous years to get ideas and start my own.
+- Summarising the most important information on digital identities and existential risks 
