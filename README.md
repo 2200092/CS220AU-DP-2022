@@ -26,9 +26,10 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2022-11-01 Drafting the information and V&R mapping on digital identities.
+- 2022-10-25 Taking permanent notes on videos related to the course content 
 - 2022-10-18 Working on the GitHub website and familiarising myself with it.
-- 2022-10-25 Taking permanent notes on videos related to the course content.
-- 2022-11-01 Drafting the information and V&R mapping on digital identities. 
+
  
 <br>
 
