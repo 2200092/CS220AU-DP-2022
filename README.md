@@ -27,6 +27,7 @@ How to use this GitHub repository as a template for your submission, including h
 ## Log
 
 - 2022-11-01 Drafting the information and V&R mapping on digital identities.
+- 2022-10-27 Seek information and take notes on digital identities and existential risks. 
 - 2022-10-25 Makes notes in the permanent folder of videos related to the course content.
 - 2022-10-18 Create a github account, work on it and familiarise myself with this site. 
 
