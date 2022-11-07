@@ -26,6 +26,8 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2022-11-07 Serch for information and material on the main topic.
+- 2022-11-05 Choice of the main theme of the website.
 - 2022-11-01 Drafting the information and V&R mapping on digital identities.
 - 2022-10-27 Seek information and take notes on digital identities and existential risks. 
 - 2022-10-25 Makes notes in the permanent folder of videos related to the course content.
@@ -42,8 +44,10 @@ How to use this GitHub repository as a template for your submission, including h
 ### in week 4
 - Search for information on digital identities and existential risks.
 - Thinking and brainstorming about how I want to start approaching the website, as well as the topics I want to talk about and research.
-- Search for interesting books and materials that I can use for my website.
 ### in week 5
 - Watch the video on how to upload and embed images in markdown files using a browser.
 - See the examples of the V&R map from previous years to get ideas and start my own.
 - Summarising the most important information on digital identities and existential risks 
+### in week 6
+- Search for interesting books and materials that I can use for my website.
+- Start drafting information on the main topic on the website.
