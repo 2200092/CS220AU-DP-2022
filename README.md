@@ -26,6 +26,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2022-11-18 Write up some information on the main topic of the website.
 - 2022-11-07 Serch for information and material on the main topic.
 - 2022-11-05 Choice of the main theme of the website.
 - 2022-11-01 Drafting the information and V&R mapping on digital identities.
@@ -51,3 +52,5 @@ How to use this GitHub repository as a template for your submission, including h
 ### in week 6
 - Search for interesting books and materials that I can use for my website.
 - Start drafting information on the main topic on the website.
+### in week 7
+- Search for interesting photos and videos to add.
