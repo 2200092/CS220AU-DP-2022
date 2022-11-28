@@ -59,3 +59,4 @@ How to use this GitHub repository as a template for your submission, including h
 - Find a partner for project evaluation.
 ### in week 8
 - Read some articles and pages with relevant information.
+- Watch some documentaries and series on artificial intelligence.
