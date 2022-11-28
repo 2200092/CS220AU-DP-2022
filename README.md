@@ -26,6 +26,8 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2022-11-26 Read some articles and opinions of different people on AI.
+- 2022-11-23 See the episode of Black Mirror in which they describe one of the points to be dealt with on the web.
 - 2022-11-18 Write up some information on the main topic of the website.
 - 2022-11-07 Serch for information and material on the main topic.
 - 2022-11-05 Choice of the main theme of the website.
@@ -54,3 +56,6 @@ How to use this GitHub repository as a template for your submission, including h
 - Start drafting information on the main topic on the website.
 ### in week 7
 - Search for interesting photos and videos to add.
+- Find a partner for project evaluation.
+### in week 8
+- Read some articles and pages with relevant information.
