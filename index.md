@@ -1,4 +1,4 @@
-![portadagithub].(assets/img/portada github.jpg)
+![portadagithub].(assets/img/portadagithub.jpg)
 ## INTRODUCTION
 **ARTIFICIAL INTELLIGENCE**
 
