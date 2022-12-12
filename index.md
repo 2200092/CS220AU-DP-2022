@@ -13,6 +13,12 @@ Artificial intelligence can be defined as anything that a machine or system does
 - The incredible precision that AI provides creates a great opportunity to develop fields such as medicine, where artificial intelligence techniques of deep learning, image classification and object recognition can now be used to detect diseases such as cancer.
 - AI enables the programming of data through progressive learning algorithms.
 
+**DIGITAL IDENTITIES**
+
+**_What is it?_**
+Digital identity is the set of personal data that people publish and upload to the Internet, including photos, comments, personal data, friendships, tastes, hobbies, etc.
+As time goes by, the Internet is growing and with it multiple technological advances are emerging, which means that our digital identity is more exposed and we must learn to develop it correctly in order to guarantee security and privacy.
+
 
 
 
