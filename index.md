@@ -1,7 +1,10 @@
-# INTRODUCTION
+![portadagithub].(assets/img/
+## INTRODUCTION
 **ARTIFICIAL INTELLIGENCE**
+
 _What is it?_
 Artificial intelligence can be defined as anything that a machine or system does in order to mimic or resemble as closely as possible any human behaviour.
+
 _Why is Artificial Intelligence important?_
 - AI is able to automate learning and different types of computational tasks with a high degree of difficulty and volume in a reliable and effortless way.
 - It analyses large amounts of data through neural networks. The more data it obtains, the more accurate and deeper its analysis will be. 
