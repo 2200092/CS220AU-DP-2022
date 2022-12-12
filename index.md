@@ -1,27 +1,24 @@
-# Title
+# INTRODUCTION
+**ARTIFICIAL INTELLIGENCE**
+_What is it?_
+Artificial intelligence can be defined as anything that a machine or system does in order to mimic or resemble as closely as possible any human behaviour.
+_Why is Artificial Intelligence important?_
+- AI is able to automate learning and different types of computational tasks with a high degree of difficulty and volume in a reliable and effortless way.
+- It analyses large amounts of data through neural networks. The more data it obtains, the more accurate and deeper its analysis will be. 
+- Artificial Intelligence is responsible for improving some of the products already on the market with its resources, such as, for example, the case of Siri in Apple products.
+- The incredible precision that AI provides creates a great opportunity to develop fields such as medicine, where artificial intelligence techniques of deep learning, image classification and object recognition can now be used to detect diseases such as cancer.
+- AI enables the programming of data through progressive learning algorithms.
 
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
-## Hyperlinks
-[This](dp-checklist.md) is an internal link to another page on your site. 
 
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
 
-## Embedding images
-Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
-![Plain VR map](assets/img/vr-map-plain.svg)
 
-Below you see an example of embedding an image that is found in another repository:
 
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
 
-## Embedding video players
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## More examples
 
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
+
 
 
