@@ -20,7 +20,7 @@ Artificial intelligence can be defined as anything that a machine or system does
 Digital identity is the set of personal data that people publish and upload to the Internet, including photos, comments, personal data, friendships, tastes, hobbies, etc.
 As time goes by, the Internet is growing and with it multiple technological advances are emerging, which means that our digital identity is more exposed and we must learn to develop it correctly in order to guarantee security and privacy.
 
-# Hyperlinks 
+###### Hyperlinks 
 [Cyborgs](cyborgs.md) is an internal link to the main part of my site.
 
 
