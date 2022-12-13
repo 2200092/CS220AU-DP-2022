@@ -25,38 +25,21 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-
+- 2022-12-01 Continue drafting all the information.
 - 2022-11-26 Read some articles and opinions of different people on AI.
 - 2022-11-23 See the episode of Black Mirror in which they describe one of the points to be dealt with on the web.
+- 2022-11-19 Find a partner for project evaluation.
 - 2022-11-18 Write up some information on the main topic of the website.
 - 2022-11-07 Serch for information and material on the main topic.
 - 2022-11-05 Choice of the main theme of the website.
+- 2022-11-03 Summarising the most important information on digital identities and existential risks.
 - 2022-11-01 Drafting the information and V&R mapping on digital identities.
+- 2022-10-30 See the examples of the V&R map from previous years to get ideas and start my own.
 - 2022-10-27 Seek information and take notes on digital identities and existential risks. 
 - 2022-10-25 Makes notes in the permanent folder of videos related to the course content.
+- 2022-10-23 View all videos available in Moodle.
 - 2022-10-18 Create a github account, work on it and familiarise myself with this site. 
 
  
 <br>
 
-## TODO
-### in week 3
-- Doing some research on how GitHub works in order to familiarise myself with the site.
-- View all videos available in Moodle.
-- Take notes on those videos, first in the inbox and then sort those notes in the permanent folder.
-### in week 4
-- Search for information on digital identities and existential risks.
-- Thinking and brainstorming about how I want to start approaching the website, as well as the topics I want to talk about and research.
-### in week 5
-- Watch the video on how to upload and embed images in markdown files using a browser.
-- See the examples of the V&R map from previous years to get ideas and start my own.
-- Summarising the most important information on digital identities and existential risks 
-### in week 6
-- Search for interesting books and materials that I can use for my website.
-- Start drafting information on the main topic on the website.
-### in week 7
-- Search for interesting photos and videos to add.
-- Find a partner for project evaluation.
-### in week 8
-- Read some articles and pages with relevant information.
-- Watch some documentaries and series on artificial intelligence.
