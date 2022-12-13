@@ -1,5 +1,9 @@
 ![introductioncyborg](assets/img/portada-cyborgs.jpg)
 
+<p align="center">
+  <img src="assets/img/portada-cyborgs.jpg" />
+</p>
+
 As I mentioned in the introduction, nowadays technology is more and more present in the lives of human beings and that with it, a much stronger connection between technology and people has been created, but the definition of cyborg is deeper than this, and goes further...
 
 
