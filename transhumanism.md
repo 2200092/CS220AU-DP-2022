@@ -3,7 +3,9 @@ As I mentioned in the introduction, nowadays technology is more and more present
 ### TRANSHUMANISM
 **_What is it?_**
 
-Transhumanism is: "a cultural, intellectual and scientific movement that affirms the moral duty to enhance the physical and cognitive capacities of the human species, and to apply new technologies to man, so that unwanted and unnecessary aspects of the human condition, such as suffering, disease, ageing and even mortality, can be eliminated" (Nick Bostrom, World Tranhumanist Association).
+---
+> Transhumanism is a cultural, intellectual and scientific movement that affirms the moral duty to enhance the physical and cognitive capacities of the human species, and to apply new technologies to man, so that unwanted and unnecessary aspects of the human condition, such as suffering, disease, ageing and even mortality, can be eliminated.
+- Nick Bostrom, World Tranhumanist Association
 
 <p align="center">
   <img src="assets/img/objectivesyes.jpg" />
