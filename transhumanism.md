@@ -12,4 +12,4 @@ As I mentioned in the introduction, nowadays technology is more and more present
 </p>
 Source: Own elaboration 
 
-
+<p class="text-center">Source: Own elaboration</p>
