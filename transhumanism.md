@@ -27,3 +27,4 @@ Likewise, this theory, by proposing the influence of technology on human thought
 
 The most radical side of this theory is its proposal for the complete loss of the identity of the human being as such and to have only a digital identity. This would be done by uploading the identity of the person into the computer cloud and thus being able to live forever in virtual worlds and the elimination of the human body. Precisely this topic is dealt with in the famous HBO series "Years and years", where in one scene a girl asks her parents to enter a Swiss clinic where she would be converted into data and would always be in the cloud.
 
+(Scene on transhumanism from Years and Years: https://www.youtube.com/watch?v=qOcktbXSfxU)
