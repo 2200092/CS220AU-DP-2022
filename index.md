@@ -1,6 +1,7 @@
-![portadagithub](assets/img/portada-github.jpg)
-## INTRODUCTION
-**ARTIFICIAL INTELLIGENCE**
+## ARTIFICIAL INTELLIGENCE
+
+![portadagithub](assets/img/AI.jpg)
+Photos by Gabriella Clare Marino, ThisisEngineering RAEng and Possessed Photography on Unsplash.
 
 **_What is it?_**
 
