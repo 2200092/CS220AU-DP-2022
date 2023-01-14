@@ -19,7 +19,7 @@ Another example is the neurotech company created by Elon Mask, called Neuralink,
 
 On the one hand, if the mission of these fusions with technology and the human body is to improve people's lives and make the diseases that affect them disappear, this would be a real breakthrough and would be very beneficial in today's world. But, on the other hand, as the founder of the transhumanism movement himself said, it would also be to avoid suffering, eliminate what makes us vulnerable and give us new capabilities. That is, it would be to add new characteristics that are not human, and remove others that are, but aren't those characteristics, such as suffering or vulnerability, what makes us truly human? If suffering disappears and the person is modified, would human beings value the good times or would this create a much more superficial world based on boasting about what one has by creating a superior being? 
 
-**_What does it mean to be better or superior for transhumanism?
+**_What does it mean to be better or superior for transhumanism?_**
 
 This movement aims to improve the qualities of human beings and create something superior and with more freedom, or as they call the posthuman or transhuman. However, not everyone has the same concept of perfection or improvement. Every part of the human body that is replaced by technological devices will lead to the disappearance of its identity and its human essence, and the person would also be at the disposal of this technology and whoever can control it.
 
