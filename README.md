@@ -29,11 +29,12 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2023-01-16 Self assessment.
+- 2023-01-17 Submit the document to FASER.
+- 2023-01-16 Self-assessment and checklist.
 - 2023-01-16 Write in the README some clarifications about my website.
 - 2023-01-16 Review all texts with Grammarly.
 - 2023-01-14 Finish writing all the information on the website.
-- 2023-01-06 Peer assessment.
+- 2023-01-06 Peer-assessment.
 - 2023-01-04 Make some collages with photos from Unsplash with a website called Canva.
 - 2023-01-03 Learn to put a quote from an author on the web page.
 - 2022-12-30 See the episode of the HBO series Years and Years that talks about transhumanism.
