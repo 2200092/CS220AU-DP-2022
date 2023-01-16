@@ -38,6 +38,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-27 Seek information and take notes on digital identities and existential risks. 
 - 2022-10-25 Makes notes in the permanent folder of videos related to the course content.
 - 2022-10-23 View all videos available in Moodle.
+- 2022-10-19 Create a new private reprositry to which only I have access and inside it create three folders called "projects.md", "permanent.md" and "inbox.md".
 - 2022-10-18 Create a github account, work on it and familiarise myself with this site. 
 
  
