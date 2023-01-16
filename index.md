@@ -22,6 +22,7 @@ Digital identity is the set of personal data that people publish and upload to t
 As time goes by, the Internet is growing and with it multiple technological advances are emerging, which means that our digital identity is more exposed and we must learn to develop it correctly in order to guarantee security and privacy.
 
 The first topic I´m going to talk is: [Transhumanism](transhumanism.md) 
+
 Finally, the topic I am going to talk about is the chatbot that Microsoft has patented.
 
 **MICROSOFT CHATBOT**
