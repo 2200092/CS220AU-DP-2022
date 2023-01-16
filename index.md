@@ -27,6 +27,8 @@ Finally, another topic I would like to comment on is the chatbot that Microsoft 
 
 **MICROSOFT CHATBOT**
 
+![chatbot](assets/img/chatbot.jpg)
+
 <p align="center">
   <img src="assets/img/chatbot.jpg" />
 </p>
