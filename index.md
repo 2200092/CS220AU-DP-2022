@@ -23,7 +23,7 @@ As time goes by, the Internet is growing and with it multiple technological adva
 
 The first topic I´m going to talk is: [Transhumanism](transhumanism.md) 
 
-Finally, the topic I am going to talk about is the chatbot that Microsoft has patented.
+Finally, another topic I would like to comment on is the chatbot that Microsoft has patented.
 
 **MICROSOFT CHATBOT**
 
