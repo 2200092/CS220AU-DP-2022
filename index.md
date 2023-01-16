@@ -27,10 +27,10 @@ Finally, another topic I would like to comment on is the chatbot that Microsoft 
 
 **MICROSOFT CHATBOT**
 
-![chatbot](assets/img/chatbot.jpg)
+![chatbot](assets/img/chat.jpg)
 
 <p align="center">
-  <img src="assets/img/chatbot.jpg" />
+  <img src="assets/img/chat.jpg" />
 </p>
 
 Photos by Daniel Korpai and Adem AY on Unsplash.
