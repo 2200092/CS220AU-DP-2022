@@ -28,11 +28,5 @@ In the `assessement.md` file
 
 The student registration number(s) of the student(s) I provided feedback with is: 2200100  
 
-<!-- #todo : 
-- delete all unnecessary HTML comments in this file 
-- download this .md file to your computer
-- rename the downloaded file and rename it so that they show your student number e.g. `0610279-dp-checklist.md` 
-- submit this file on FASER
-- relax
--->
+
 
