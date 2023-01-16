@@ -37,6 +37,30 @@ Today this Microsoft project has been stopped and has no thoughts of being devel
 
 This makes me wonder how much personal stuff we put on the web and how important artificial intelligence and the systems it uses are. With today's technology and as this chat proposes, they are capable of completely imitating people's personalities thanks to all the information and data that we provide, sometimes without even realising it. So, it is very important to be careful with the things we upload to the internet and what we talk about, as this will be stored and identified with the person we are.
 
+**CONCUSION**
+
+**REFERENCES**
+
+Bostrom, N. (2003). The transhumanist FAQ. World Transhumanist Association. Available at: https://nickbostrom.com/views/transhumanist.pdf 
+
+Bowyer, C. (2022). What is digital identity? Onfido. Available at:  https://onfido.com/blog/digital-identity/ 
+
+Brown, D. (2021). AI chatbots can bring you back from the dead, sort of. Washington Post. Available at: https://www.washingtonpost.com/technology/2021/02/04/chat-bots-reincarnation-dead/ 
+
+Duffy, C. (2021). Microsoft patented a chatbot that would let you talk to dead people. It was too disturbing for production. CNN. Available at: https://edition.cnn.com/2021/01/27/tech/microsoft-chat-bot-patent/index.html 
+
+Inteligencia Artificial: Qué es y Por Qué Importa. SAS. Available at: https://www.sas.com/es_cl/insights/analytics/what-is-artificial-intelligence.html 
+
+Kenny. (2019). What Is Neuralink: A Look At What It Is, What It Wants to Be, and What It Could Become. Medium. Available at: https://towardsdatascience.com/what-is-neuralink-a-look-at-what-it-is-what-it-wants-to-be-and-what-it-could-become-2acf32b51dc5 
+
+Ostberg, R. (2014). Transhumanism. Definition, History, Ethics, Philosophy, & Facts. Encyclopedia Britannica. Available at: https://www.britannica.com/topic/transhumanism 
+
+Sabater, V. (2020). Transhumanismo: el objetivo de mejorar nuestras capacidades. La mente es maravillosa. Available at: https://lamenteesmaravillosa.com/transhumanismo-el-objetivo-de-mejorar-nuestras-capacidades/ 
+
+Vicente, R. (2021). Transhumanismo: atentado a la identidad del ser humano. Instituto de Investigación Social. Available at: https://socialinvestigation.org/transhumanismo-atentado-a-la-identidad-del-ser-humano/ 
+ 
+
+
 
 
 
