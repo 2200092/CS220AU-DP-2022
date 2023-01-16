@@ -25,8 +25,13 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2022-12-30 See the episode of the HBO series Years and Years that talks about transhumanism
-- 2022-12-27 Search for information on transhumanism
+- 2023-01-16 Review all texts with Grammarly.
+- 2023-01-15 Finish writing all the information on the website.
+- 2023-01-06 Peer assessment.
+- 2023-01-04 Make some collages with photos from Unsplash with a website called Canva.
+- 2023-01-03 Learn to put a quote from an author on the web page.
+- 2022-12-30 See the episode of the HBO series Years and Years that talks about transhumanism.
+- 2022-12-27 Search for information on transhumanism.
 - 2022-12-27 Change of one of the more specific topics for another one even more related to my existential risk (cyborgs for transhumanism).
 - 2022-12-13 Learn in class to make some smaller images to insert them on the web and to create a page within another.
 - 2022-12-01 Continue drafting the information.
