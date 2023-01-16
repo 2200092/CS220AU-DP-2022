@@ -39,6 +39,11 @@ This makes me wonder how much personal stuff we put on the web and how important
 
 **CONCUSION**
 
+In conclusion, I would like to mention the great advance of technology and especially the use that artificial intelligence makes of it. We have to be careful about what a person publishes on the internet and the data about ourselves and others that is provided, as all of this will constitute the person's digital identity, and in the end, this identity is an extension of ourselves. Moreover, it is not known for what purposes this data may be used, which could lead to the loss of the person's privacy. 
+
+Likewise, Microsoft's chatbot and Transhumanism are clear examples of the loss of humanity that AI can cause in human beings. For me, what makes us human is precisely the imperfections we have, and changing that essence would only contribute to the extinction of what we are, with both good and bad things.
+
+
 **REFERENCES**
 
 Bostrom, N. (2003). _The transhumanist FAQ._ World Transhumanist Association. Available at: https://nickbostrom.com/views/transhumanist.pdf 
