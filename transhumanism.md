@@ -11,6 +11,7 @@ As I mentioned in the introduction, nowadays technology is more and more present
   <img src="assets/img/objectivesyes.jpg" />
 </p>
 
+                                                                 _Source: Own elaboration_
 As its definition and objectives indicate, through Artificial Intelligence, transhumanism aims to have total control over the body and to modify whatever people want through the incorporation of technology into the body. Sight, memory capacity, or physical resistance, among many others, are aspects that could be changed so that human beings will cease to be human and will become a new species called posthumans or transhumans. 
 
 Although this concept may seem crazy initially, it is already underway and can be found in many things today. One example is the concept of cyborgs, which are people who, thanks to having cybernetic devices incorporated into their bodies, can develop capacities and abilities that they would not be able to have without these devices. One of them is Neil Harbisson who, after suffering all his life from achromatopsia, decided to implant a chip in his skull that transforms sounds into colours, which has allowed him to become a very avant-garde artist and to see invisible colours such as ultraviolet.
@@ -23,7 +24,7 @@ On the one hand, if the mission of these fusions with technology and the human b
   <img src="assets/img/HUMANYES.jpg" />
 </p>
 
-Photo by ThisisEngineering RAEng on Unsplash
+_Photo by ThisisEngineering RAEng on Unsplash_
 
 **_What does it mean to be better or superior for transhumanism?_**
 
