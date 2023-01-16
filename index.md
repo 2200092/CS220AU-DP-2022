@@ -33,7 +33,7 @@ In addition, you could not only communicate with friends or family but also with
 
 Such an idea is perfectly shown in one of the most famous episodes of the Black Mirror series called "Be Right back" in which a young woman, after losing her husband, decides to use all the data of her digital identity to digitally revive him and be able to talk to him as if he were still alive. 
 
-Today this Microsoft project has been stopped and has no thoughts of being developed in the market, as it would have too many ethical repercussions and because it is a somewhat disturbing idea when dealing with deceased people.
+Today this Microsoft project has been stopped and has no thoughts of being developed in the market, as it would have too many ethical repercussions and because it is a somewhat disturbing idea when dealing with deceased people. But at the same time, this serves to make us realise how far technology and companies can and would be willing to go.  
 
 This makes me wonder how much personal stuff we put on the web and how important artificial intelligence and the systems it uses are today. With today's technology and as this chat proposes, they are capable of completely imitating people's personalities thanks to all the information and data that we provide, sometimes without even realising it. So, it is very important to be careful with the things we upload to the internet and what we talk about, as this will be stored and identified with the person we are.
 
