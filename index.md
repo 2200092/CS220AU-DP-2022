@@ -27,13 +27,11 @@ Finally, another topic I would like to comment on is the chatbot that Microsoft 
 
 **MICROSOFT CHATBOT**
 
-![chatbot](assets/img/messages.jpg)
-
 <p align="center">
   <img src="assets/img/messages.jpg" />
 </p>
 
-Photos by Daniel Korpai and Adem AY on Unsplash.
+          Photos by Daniel Korpai and Adem AY on Unsplash.
 
 This consists of a chat that would allow people to communicate with those who have died. The basis of this project is the digital identity that these deceased people have on the web, as the idea is to use all the data that exists on the internet about them. From photos, videos, voice recordings, and publications on social networks to emails, among many other things. All this data would be stored and used by different artificial intelligence tools to create a kind of avatar with which to interact through this chat. 
 
