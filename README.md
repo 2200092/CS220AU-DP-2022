@@ -25,6 +25,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2023-01-16 Self assessment.
 - 2023-01-16 Write in the README some clarifications about my website.
 - 2023-01-16 Review all texts with Grammarly.
 - 2023-01-14 Finish writing all the information on the website.
