@@ -22,7 +22,19 @@ Digital identity is the set of personal data that people publish and upload to t
 As time goes by, the Internet is growing and with it multiple technological advances are emerging, which means that our digital identity is more exposed and we must learn to develop it correctly in order to guarantee security and privacy.
 
 The first topic I´m going to talk is: [Transhumanism](transhumanism.md) 
+Finally, the topic I am going to talk about is the chatbot that Microsoft has patented.
 
+**MICROSOFT CHATBOT**
+
+This consists of a chat that would allow people to communicate with those who have died. The basis of this project is the digital identity that these deceased people have on the web, as the idea is to use all the data that exists on the internet about them. From photos, videos, voice recordings, and publications on social networks to emails, among many other things. All this data would be stored and used by different artificial intelligence tools to create a kind of avatar with which to interact through this chat. 
+
+In addition, you could not only communicate with friends or family but also with famous, historical, or fictional characters. Even photos and videos would be able to recreate that person in 2D and 3D. 
+
+Such an idea is perfectly shown in one of the most famous episodes of the Black Mirror series called "Be Right back" in which a young woman, after losing her husband, decides to use all the data of her digital identity to digitally revive him and be able to talk to him as if he were still alive. 
+
+Today this Microsoft project has been stopped and has no thoughts of being developed in the market, as it would have too many ethical repercussions and because it is a somewhat disturbing idea when dealing with deceased people.
+
+This makes me wonder how much personal stuff we put on the web and how important artificial intelligence and the systems it uses are today. With today's technology and as this chat proposes, they are capable of completely imitating people's personalities thanks to all the information and data that we provide, sometimes without even realising it. So, it is very important to be careful with the things we upload to the internet and what we talk about, as this will be stored and identified with the person we are.
 
 
 
