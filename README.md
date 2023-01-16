@@ -25,7 +25,10 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2022-12-13 
+- 2022-12-30 See the episode of the HBO series Years and Years that talks about transhumanism
+- 2022-12-27 Search for information on transhumanism
+- 2022-12-27 Change of one of the more specific topics for another one even more related to my existential risk (cyborgs for transhumanism).
+- 2022-12-13 Learn in class to make some smaller images to insert them on the web and to create a page within another.
 - 2022-12-01 Continue drafting the information.
 - 2022-11-26 Read some articles and opinions of different people on cyborgs.
 - 2022-11-23 See the episode of Black Mirror in which they describe one of the points to be dealt with on the web.
