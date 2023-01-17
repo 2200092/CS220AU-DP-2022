@@ -10,8 +10,8 @@ This GitHub repository is the template for the [CS220AU](https://github.com/khof
 The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
 
 **CLARIFICATIONS**
-- All the photos used on my website are taken from Unsplash and the collages or photo montages with text I have made myself with photos from [Unsplash] too, but with a website called [Canva]. 
-- The text is checked by [Grammarly].
+- All the photos used on my website are taken from [Unsplash](https://unsplash.com/es) and the collages or photo montages with text I have made myself with photos from [Unsplash](https://unsplash.com/es) too, but with a website called [Canva](https://www.canva.com/es_es/).
+- The text is checked by [Grammarly](https://www.grammarly.com/).
 
 <br>
 
