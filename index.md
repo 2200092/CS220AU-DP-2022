@@ -56,7 +56,7 @@ Bostrom, N. (2003). [The transhumanist FAQ](https://nickbostrom.com/views/transh
 
 Bowyer, C. (2022). [What is digital identity?](https://onfido.com/blog/digital-identity/) Onfido.
 
-Brown, D. (2021). (AI chatbots can bring you back from the dead, sort of.)[https://www.washingtonpost.com/technology/2021/02/04/chat-bots-reincarnation-dead/] Washington Post.
+Brown, D. (2021). [AI chatbots can bring you back from the dead, sort of.](https://www.washingtonpost.com/technology/2021/02/04/chat-bots-reincarnation-dead/) Washington Post.
 
 Duffy, C. (2021). [Microsoft patented a chatbot that would let you talk to dead people. It was too disturbing for production.](https://edition.cnn.com/2021/01/27/tech/microsoft-chat-bot-patent/index.html) CNN. 
 
