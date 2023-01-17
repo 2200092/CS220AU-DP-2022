@@ -5,12 +5,12 @@ _Photos by Gabriella Clare Marino, ThisisEngineering RAEng and Possessed Photogr
 
 **_What is it?_**
 
-Artificial intelligence can be defined as anything that a machine or system does in order to mimic or resemble as closely as possible any human behaviour.
+AI can be defined as anything that a machine or system does in order to mimic or resemble as closely as possible any human behaviour.
 
-**_Why is Artificial Intelligence important?_**
+**_Why is AI important?_**
 - AI is able to automate learning and different types of computational tasks with a high degree of difficulty and volume in a reliable and effortless way.
 - It analyses large amounts of data through neural networks. The more data it obtains, the more accurate and deeper its analysis will be. 
-- Artificial Intelligence is responsible for improving some of the products already on the market with its resources, such as, for example, the case of Siri in Apple products.
+- AI is responsible for improving some of the products already on the market with its resources, such as, for example, the case of Siri in Apple products.
 - The incredible precision that AI provides creates a great opportunity to develop fields such as medicine, where artificial intelligence techniques of deep learning, image classification and object recognition can now be used to detect diseases such as cancer.
 - AI enables the programming of data through progressive learning algorithms.
 
