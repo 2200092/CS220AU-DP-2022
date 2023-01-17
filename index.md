@@ -52,7 +52,7 @@ Likewise, Microsoft's chatbot and Transhumanism are clear examples of the loss o
 
 **REFERENCES**
 
-Bostrom, N. (2003). [The transhumanist FAQ]. World Transhumanist Association.  
+Bostrom, N. (2003). [The transhumanist FAQ] (https://nickbostrom.com/views/transhumanist.pdf). World Transhumanist Association.  
 
 Bowyer, C. (2022). _What is digital identity?_ Onfido. Available at:  https://onfido.com/blog/digital-identity/ 
 
