@@ -52,17 +52,15 @@ Likewise, Microsoft's chatbot and Transhumanism are clear examples of the loss o
 
 **REFERENCES**
 
-Bostrom, N. (2003). [The transhumanist FAQ] (https://nickbostrom.com/views/transhumanist.pdf). World Transhumanist Association.  
+Bostrom, N. (2003). [The transhumanist FAQ](https://nickbostrom.com/views/transhumanist.pdf). World Transhumanist Association.  
 
-Bostrom, N. (2003). The transhumanist FAQ. World Transhumanist Association. Available at: The transhumanist FAQ   
+Bowyer, C. (2022). [What is digital identity?](https://onfido.com/blog/digital-identity/) Onfido.
 
-Bowyer, C. (2022). _What is digital identity?_ Onfido. Available at:  https://onfido.com/blog/digital-identity/ 
+Brown, D. (2021). (AI chatbots can bring you back from the dead, sort of.)[https://www.washingtonpost.com/technology/2021/02/04/chat-bots-reincarnation-dead/] Washington Post.
 
-Brown, D. (2021). _AI chatbots can bring you back from the dead, sort of._ Washington Post. Available at: https://www.washingtonpost.com/technology/2021/02/04/chat-bots-reincarnation-dead/ 
+Duffy, C. (2021). [Microsoft patented a chatbot that would let you talk to dead people. It was too disturbing for production.](https://edition.cnn.com/2021/01/27/tech/microsoft-chat-bot-patent/index.html) CNN. 
 
-Duffy, C. (2021). _Microsoft patented a chatbot that would let you talk to dead people. It was too disturbing for production._ CNN. Available at: https://edition.cnn.com/2021/01/27/tech/microsoft-chat-bot-patent/index.html 
-
-_Inteligencia Artificial: Qué es y Por Qué Importa._ SAS. Available at: https://www.sas.com/es_cl/insights/analytics/what-is-artificial-intelligence.html 
+[Inteligencia Artificial: Qué es y Por Qué Importa.](*https://www.sas.com/es_cl/insights/analytics/what-is-artificial-intelligence.html) SAS.
 
 Kenny. (2019). _What Is Neuralink: A Look At What It Is, What It Wants to Be, and What It Could Become._ Medium. Available at: https://towardsdatascience.com/what-is-neuralink-a-look-at-what-it-is-what-it-wants-to-be-and-what-it-could-become-2acf32b51dc5 
 
